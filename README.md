@@ -29,5 +29,3 @@ Just click Run and type any password.
 | Has lowercase | +2 |
 | Has numbers | +2 |
 | Has special chars | +3 |
-
-## Sample Output
